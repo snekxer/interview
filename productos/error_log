@@ -1,0 +1,719 @@
+[03-Jan-2018 21:22:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[04-Jan-2018 00:02:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[04-Jan-2018 03:10:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[04-Jan-2018 15:39:11 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[04-Jan-2018 15:39:25 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[04-Jan-2018 17:05:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[04-Jan-2018 17:05:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[05-Jan-2018 02:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[05-Jan-2018 03:27:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 35
+[05-Jan-2018 18:09:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[05-Jan-2018 19:25:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[05-Jan-2018 20:41:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[05-Jan-2018 21:27:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[05-Jan-2018 21:28:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[06-Jan-2018 06:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[06-Jan-2018 06:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[06-Jan-2018 06:59:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[06-Jan-2018 06:59:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[06-Jan-2018 06:59:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:15:47 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:15:52 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:15:55 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:16:01 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:16:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:16:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:16:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:16:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:16:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:16:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:17:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:17:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:17:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:17:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:17:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:25:18 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:25:30 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:25:39 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:25:59 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 08:26:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:26:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:26:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:26:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:26:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 08:27:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 15:15:17 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 19:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[08-Jan-2018 23:03:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:13:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:13:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:13:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:16:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:16:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:16:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:16:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:16:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[08-Jan-2018 23:16:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:47:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:47:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:47:30 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[09-Jan-2018 21:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[09-Jan-2018 21:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[09-Jan-2018 21:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[09-Jan-2018 21:47:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:48:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:48:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:48:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:48:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[09-Jan-2018 21:48:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[10-Jan-2018 16:44:49 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[10-Jan-2018 16:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[10-Jan-2018 16:46:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:46:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:46:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:47:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:47:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:47:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:47:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[10-Jan-2018 16:48:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[11-Jan-2018 08:53:12 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[12-Jan-2018 07:34:20 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[12-Jan-2018 07:36:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[12-Jan-2018 19:41:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[12-Jan-2018 20:36:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[13-Jan-2018 01:17:45 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[13-Jan-2018 14:18:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 02:38:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 06:39:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 12:58:41 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[14-Jan-2018 12:58:43 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[14-Jan-2018 12:58:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 12:58:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 12:58:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 12:58:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[14-Jan-2018 16:16:02 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[14-Jan-2018 16:34:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[15-Jan-2018 11:12:48 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[15-Jan-2018 16:15:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[16-Jan-2018 12:44:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[16-Jan-2018 19:58:14 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[17-Jan-2018 08:35:56 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[17-Jan-2018 09:51:43 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[18-Jan-2018 07:01:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[18-Jan-2018 14:37:44 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[18-Jan-2018 14:38:45 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[18-Jan-2018 20:14:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[18-Jan-2018 22:06:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[18-Jan-2018 22:08:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[19-Jan-2018 10:01:23 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[19-Jan-2018 10:01:32 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[20-Jan-2018 08:16:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[20-Jan-2018 11:20:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 10:39:17 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 10:39:43 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 10:40:10 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 13:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 13:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 13:26:22 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 13:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 13:27:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 13:27:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 14:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 14:40:54 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[22-Jan-2018 14:42:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 14:43:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 14:48:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 15:52:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[22-Jan-2018 18:05:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[23-Jan-2018 05:35:07 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 00:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:01:43 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:04:28 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:05:27 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:17:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:17:46 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:27:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:32:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:39:17 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:39:19 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:39:20 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:39:49 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:40:09 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:41:10 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 01:41:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:41:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:52:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 01:57:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 02:13:05 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 02:14:28 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 02:24:06 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[24-Jan-2018 03:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 07:02:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 08:12:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 09:57:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[24-Jan-2018 11:02:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 02:53:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 02:57:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 11:12:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 15:55:36 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[25-Jan-2018 15:56:03 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[25-Jan-2018 19:36:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 19:52:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 19:54:59 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[25-Jan-2018 19:55:14 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[25-Jan-2018 19:56:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 19:56:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 19:56:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 19:56:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 19:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[25-Jan-2018 22:11:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[25-Jan-2018 23:23:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[26-Jan-2018 04:35:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[26-Jan-2018 21:51:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[26-Jan-2018 21:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[26-Jan-2018 21:51:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[27-Jan-2018 13:37:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[28-Jan-2018 18:56:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[28-Jan-2018 18:56:05 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[28-Jan-2018 18:56:07 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[28-Jan-2018 18:56:09 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[29-Jan-2018 23:34:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=? AND emp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[29-Jan-2018 23:34:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=? AND emp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[30-Jan-2018 00:47:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=? AND emp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[30-Jan-2018 02:30:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=? AND emp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[30-Jan-2018 02:54:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=? AND emp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[30-Jan-2018 02:54:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id=? AND emp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[30-Jan-2018 02:55:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intervn6_interviewn.prodcuto' doesn't exist in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:93
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php(93): PDO->prepare('UPDATE prodcuto...')
+#1 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 93
+[30-Jan-2018 02:55:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method producto::getDescription() in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:97
+Stack trace:
+#0 /home/intervn6/public_html/productos/formEditProducto.php(15): productos_empresa->editProducto(Object(producto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 97
+[30-Jan-2018 05:11:47 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:49 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:56 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:57 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:11:59 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:12:01 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:12:03 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[30-Jan-2018 05:12:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 05:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 05:12:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 05:12:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 05:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 05:12:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 05:12:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 11:13:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 15:40:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 15:40:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[30-Jan-2018 20:30:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 00:37:47 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[31-Jan-2018 00:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[31-Jan-2018 22:51:32 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[31-Jan-2018 22:51:54 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[31-Jan-2018 22:52:38 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[31-Jan-2018 22:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[31-Jan-2018 22:53:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:53:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:54:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:54:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:54:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:55:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:56:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[31-Jan-2018 22:56:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 01:39:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 01:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 01:39:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 01:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:11:37 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:38 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:40 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:42 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:44 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:45 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:47 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:49 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 05:11:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:11:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:11:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:12:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:12:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:12:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:49:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 05:50:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 13:14:53 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 13:14:55 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 13:14:57 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 13:14:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 13:15:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 17:26:01 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 17:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 17:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[01-Feb-2018 17:26:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[01-Feb-2018 17:26:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[02-Feb-2018 00:18:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[02-Feb-2018 00:18:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[02-Feb-2018 05:45:37 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[02-Feb-2018 05:45:45 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[02-Feb-2018 05:45:54 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[02-Feb-2018 05:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[02-Feb-2018 05:46:09 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[02-Feb-2018 10:02:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/productos/ver-productos.php on line 30
+[03-Feb-2018 00:30:05 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[03-Feb-2018 06:14:56 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[05-Feb-2018 06:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[05-Feb-2018 20:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php:57
+Stack trace:
+#0 /home/intervn6/public_html/productos/formDeleteProducto.php(8): productos_empresa->delProducto(false, Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Productos/Productos_Empresa.php on line 57
+[05-Feb-2018 21:23:39 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[05-Feb-2018 22:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[05-Feb-2018 23:55:14 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7
+[06-Feb-2018 01:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'productos_empresa' not found in /home/intervn6/public_html/productos/productos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/productos/productos.php on line 7

@@ -1,0 +1,445 @@
+[10-Jan-2018 17:08:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/historia/datos-empresa.php:1) in /home/intervn6/public_html/header.php on line 2
+[12-Jan-2018 05:56:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/historia/datos-empresa.php:1) in /home/intervn6/public_html/header.php on line 2
+[12-Jan-2018 05:56:37 UTC] PHP Fatal error:  Uncaught Error: Class 'trayectoria_emprendedor' not found in /home/intervn6/public_html/historia/datos-empresa.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/datos-empresa.php on line 9
+[12-Jan-2018 05:58:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/historia/datos-empresa.php:1) in /home/intervn6/public_html/header.php on line 2
+[12-Jan-2018 05:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMision() in /home/intervn6/public_html/historia/datos-empresa.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/datos-empresa.php on line 13
+[12-Jan-2018 06:00:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMision() in /home/intervn6/public_html/historia/datos-empresa.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/datos-empresa.php on line 12
+[12-Jan-2018 06:01:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'quienes_somos=?, mision=?, vision=?, contacto=?, valores=?,slogan=? WHERE emp_id' at line 1 in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:100
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(100): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(15): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 100
+[12-Jan-2018 06:04:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:100
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(100): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(15): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 100
+[12-Jan-2018 06:09:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:100
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(100): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 100
+[12-Jan-2018 07:17:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/core/Meta/Uploader.php:189) in /home/intervn6/public_html/historia/crear-proyecto-empresas.php on line 18
+[12-Jan-2018 21:09:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/intervn6/public_html/historia/proyectos-empresa.php on line 20
+[12-Jan-2018 21:25:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 21:43:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'duracion' in 'field list' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:130
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(130): PDO->prepare('UPDATE his_proy...')
+#1 /home/intervn6/public_html/historia/editar-proyecto.php(15): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 130
+[12-Jan-2018 21:45:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titulo' in 'field list' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:130
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(130): PDO->prepare('UPDATE his_proy...')
+#1 /home/intervn6/public_html/historia/editar-proyecto.php(15): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 130
+[12-Jan-2018 21:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyHis() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:131
+Stack trace:
+#0 /home/intervn6/public_html/historia/editar-proyecto.php(15): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 131
+[12-Jan-2018 21:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 12
+[12-Jan-2018 21:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyHis() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:131
+Stack trace:
+#0 /home/intervn6/public_html/historia/editar-proyecto.php(15): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 131
+[12-Jan-2018 21:51:04 UTC] PHP Warning:  finfo::file(): Empty filename or path in /home/intervn6/public_html/core/Meta/Uploader.php on line 162
+[12-Jan-2018 21:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyHis() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:131
+Stack trace:
+#0 /home/intervn6/public_html/historia/editar-proyecto.php(15): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 131
+[12-Jan-2018 21:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyHis() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:131
+Stack trace:
+#0 /home/intervn6/public_html/historia/editar-proyecto.php(15): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 131
+[12-Jan-2018 21:52:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/core/Meta/Uploader.php:189) in /home/intervn6/public_html/historia/editar-proyecto.php on line 19
+[12-Jan-2018 22:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:13:40 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[12-Jan-2018 22:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[12-Jan-2018 22:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 43
+[14-Jan-2018 06:39:33 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[14-Jan-2018 12:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[14-Jan-2018 12:58:39 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[14-Jan-2018 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[14-Jan-2018 16:35:04 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[14-Jan-2018 21:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[15-Jan-2018 13:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[16-Jan-2018 04:34:01 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[16-Jan-2018 04:35:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '274' for key 'PRIMARY' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:44
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(44): PDOStatement->execute()
+#1 /home/intervn6/public_html/historia/crear-datos-empresa.php(15): historia_empresa->newHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 44
+[16-Jan-2018 04:52:15 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[17-Jan-2018 14:59:17 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[22-Jan-2018 10:41:06 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[22-Jan-2018 12:04:30 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[22-Jan-2018 13:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[23-Jan-2018 19:32:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'quienes_somos=?, mision=?, vision=?, contacto=?, valores=?,slogan=? WHERE emp_id' at line 1 in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:127
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(127): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 127
+[23-Jan-2018 19:32:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'quienes_somos=?, mision=?, vision=?, contacto=?, valores=?,slogan=? WHERE emp_id' at line 1 in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:127
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(127): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 127
+[23-Jan-2018 19:34:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'quienes_somos=?, mision=?, vision=?, contacto=?, valores=?,slogan=? WHERE emp_id' at line 1 in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:127
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(127): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 127
+[23-Jan-2018 19:34:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:127
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(127): PDO->prepare('UPDATE historia...')
+#1 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 127
+[23-Jan-2018 19:35:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:129
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(129): PDOStatement->bindParam(':his', '274')
+#1 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 129
+[23-Jan-2018 19:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method historia::geMision() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:130
+Stack trace:
+#0 /home/intervn6/public_html/historia/editar-historia.php(16): historia_empresa->editHistoria(Object(historia), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 130
+[24-Jan-2018 02:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[24-Jan-2018 07:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[24-Jan-2018 17:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[27-Jan-2018 05:09:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE emp_id=? AND id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:182
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(182): PDO->prepare('UPDATE his_proy...')
+#1 /home/intervn6/public_html/historia/save-pro.php(21): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 182
+[27-Jan-2018 05:10:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'duracion' in 'field list' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:182
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(182): PDO->prepare('UPDATE his_proy...')
+#1 /home/intervn6/public_html/historia/save-pro.php(21): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 182
+[27-Jan-2018 05:11:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titulo' in 'field list' in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:182
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(182): PDO->prepare('UPDATE his_proy...')
+#1 /home/intervn6/public_html/historia/save-pro.php(21): historia_empresa->editProyecto(Object(his_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 182
+[29-Jan-2018 15:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 34
+[29-Jan-2018 15:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 34
+[29-Jan-2018 15:49:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 34
+[29-Jan-2018 15:49:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 34
+[29-Jan-2018 18:11:51 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/save-datos.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/save-datos.php on line 4
+[29-Jan-2018 18:11:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMision() on null in /home/intervn6/public_html/historia/datos-empresa.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/datos-empresa.php on line 35
+[30-Jan-2018 02:58:34 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/intervn6/public_html/historia/save-datos.php on line 43
+[30-Jan-2018 02:58:34 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/historia/save-datos.php on line 43
+[30-Jan-2018 02:59:15 UTC] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home/intervn6/public_html/historia/save-datos.php on line 43
+[30-Jan-2018 02:59:15 UTC] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/historia/save-datos.php on line 43
+[30-Jan-2018 06:32:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'contacto' cannot be null in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:48
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php(48): PDOStatement->execute()
+#1 /home/intervn6/public_html/historia/save-datos.php(26): historia_empresa->newHistoria(Object(historia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 48
+[30-Jan-2018 18:25:19 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:43:41 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:44:05 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:44:26 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:44:43 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:45:10 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:45:35 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[31-Jan-2018 22:46:17 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 03:26:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/header.php:31) in /home/intervn6/public_html/historia/save-datos.php on line 27
+[01-Feb-2018 05:10:59 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:03 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:07 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:09 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:10 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:12 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:16 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:18 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:19 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:21 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:23 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 05:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:19 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:21 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:23 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:25 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:28 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:32 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 17:25:36 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[01-Feb-2018 23:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[02-Feb-2018 09:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyHis() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:119
+Stack trace:
+#0 /home/intervn6/public_html/historia/eliminar-proyecto.php(9): historia_empresa->delProyecto(Object(his_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 119
+[02-Feb-2018 13:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyHis() in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php:119
+Stack trace:
+#0 /home/intervn6/public_html/historia/eliminar-proyecto.php(9): historia_empresa->delProyecto(Object(his_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Historia/Historia_Empresa.php on line 119
+[02-Feb-2018 13:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/historia/proyectos-empresa.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 38
+[03-Feb-2018 00:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[03-Feb-2018 06:16:35 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[05-Feb-2018 06:41:07 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[06-Feb-2018 07:24:04 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7
+[06-Feb-2018 08:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'historia_empresa' not found in /home/intervn6/public_html/historia/proyectos-empresa.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/historia/proyectos-empresa.php on line 7

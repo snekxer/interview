@@ -1,0 +1,669 @@
+[21-Dec-2017 21:54:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Dec-2017 06:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[22-Dec-2017 21:51:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[23-Dec-2017 21:52:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[24-Dec-2017 21:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[25-Dec-2017 21:49:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Dec-2017 21:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Dec-2017 21:53:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[28-Dec-2017 16:32:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'paulina' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[28-Dec-2017 20:13:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[28-Dec-2017 21:47:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[29-Dec-2017 05:37:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Titoqr@hotmail.com ' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[29-Dec-2017 17:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[29-Dec-2017 21:48:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Dec-2017 21:47:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[31-Dec-2017 21:48:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[01-Jan-2018 21:47:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[02-Jan-2018 21:50:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[02-Jan-2018 23:20:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'varcelo' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[03-Jan-2018 02:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[03-Jan-2018 02:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[03-Jan-2018 05:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[03-Jan-2018 14:52:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'elizabethmorantev@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[03-Jan-2018 14:57:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'elizabethmorantev@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[03-Jan-2018 15:07:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'elisitamorante@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[03-Jan-2018 18:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[03-Jan-2018 21:56:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[04-Jan-2018 21:48:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[05-Jan-2018 19:54:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'elizabethmorantv@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[05-Jan-2018 19:55:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'monica' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[05-Jan-2018 19:55:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'elizabethmorantv@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[05-Jan-2018 21:47:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[06-Jan-2018 21:49:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[07-Jan-2018 21:48:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[08-Jan-2018 18:24:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'persona' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(13): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[08-Jan-2018 21:56:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[09-Jan-2018 21:47:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[10-Jan-2018 21:54:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[11-Jan-2018 21:48:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[12-Jan-2018 08:49:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[12-Jan-2018 08:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[12-Jan-2018 21:53:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[13-Jan-2018 21:51:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[14-Jan-2018 21:58:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[15-Jan-2018 21:47:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[16-Jan-2018 21:54:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[17-Jan-2018 21:48:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[18-Jan-2018 21:57:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[19-Jan-2018 21:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[19-Jan-2018 21:57:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[20-Jan-2018 21:56:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[21-Jan-2018 21:48:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 07:29:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 09:41:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/intervn6/public_html/auth/emailChecker.php on line 8
+[22-Jan-2018 09:41:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/intervn6/public_html/auth/emailChecker.php on line 8
+[22-Jan-2018 09:41:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/intervn6/public_html/auth/emailChecker.php on line 9
+[22-Jan-2018 09:41:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/intervn6/public_html/auth/emailChecker.php on line 9
+[22-Jan-2018 09:41:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/intervn6/public_html/auth/emailChecker.php on line 9
+[22-Jan-2018 09:44:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/intervn6/public_html/auth/emailChecker.php on line 10
+[22-Jan-2018 09:44:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/intervn6/public_html/auth/emailChecker.php on line 10
+[22-Jan-2018 09:45:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/intervn6/public_html/auth/emailChecker.php on line 10
+[22-Jan-2018 09:45:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/intervn6/public_html/auth/emailChecker.php on line 10
+[22-Jan-2018 14:57:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'QUANTUM' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 15:58:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 19:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[22-Jan-2018 20:31:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Palito Producciones' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 21:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[22-Jan-2018 21:05:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[22-Jan-2018 21:47:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 21:58:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'emprendedor' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 21:58:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'emprendedor1' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 21:58:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'emprendedor1' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 21:58:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'emprendedor1' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 21:58:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'emprendedor1' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 23:25:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'view@view.ec' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 23:27:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'titoqr@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[22-Jan-2018 23:28:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'titoqr@hotmail.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[23-Jan-2018 02:14:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'email@empresa.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[23-Jan-2018 04:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[23-Jan-2018 16:36:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Domenica' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[23-Jan-2018 21:48:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[24-Jan-2018 21:57:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[24-Jan-2018 23:38:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[24-Jan-2018 23:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[25-Jan-2018 22:00:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Jan-2018 18:47:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Jan-2018 18:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Jan-2018 18:48:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Jan-2018 20:40:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asd123' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Jan-2018 21:04:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1234567' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[26-Jan-2018 23:26:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 05:15:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(14): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 05:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'empresa_empresa' not found in /home/intervn6/public_html/auth/register-form.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/register-form.php on line 33
+[27-Jan-2018 05:34:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Empresa10' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 05:35:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fecha_nac' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Persona/Persona_Persona.php:66
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Persona/Persona_Persona.php(66): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(29): persona_persona->newPersona(Object(persona), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Persona/Persona_Persona.php on line 66
+[27-Jan-2018 05:38:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Persona11' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 05:42:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`empresa`, CONSTRAINT `empresa.ciudad` FOREIGN KEY (`ciudad`, `provincia`, `pais`) REFERENCES `ciudad` (`id`, `prov_id`, `pais_id`)) in /home/intervn6/public_html/data/Functions/Perfiles/Empresa/Empresa_Empresa.php:37
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Empresa/Empresa_Empresa.php(37): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(42): empresa_empresa->newEmpresa(Object(empresa), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Empresa/Empresa_Empresa.php on line 37
+[27-Jan-2018 05:42:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'empresa10' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 05:43:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 05:47:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email_contacto' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:33
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(33): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(55): emprendedor_emprendedor->newEmprendedor(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 33
+[27-Jan-2018 05:53:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`empresa`, CONSTRAINT `empresa.ciudad` FOREIGN KEY (`ciudad`, `provincia`, `pais`) REFERENCES `ciudad` (`id`, `prov_id`, `pais_id`)) in /home/intervn6/public_html/data/Functions/Perfiles/Empresa/Empresa_Empresa.php:37
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Empresa/Empresa_Empresa.php(37): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(42): empresa_empresa->newEmpresa(Object(empresa), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Empresa/Empresa_Empresa.php on line 37
+[27-Jan-2018 05:55:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'empresa11' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[27-Jan-2018 23:49:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[28-Jan-2018 22:29:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[29-Jan-2018 20:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[29-Jan-2018 21:51:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[29-Jan-2018 22:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTipo() on boolean in /home/intervn6/public_html/auth/logout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/logout.php on line 8
+[30-Jan-2018 06:07:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TOSHIBA ' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Jan-2018 06:09:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'toshiba' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Jan-2018 06:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuario_global::newEmpresa() in /home/intervn6/public_html/auth/register-form.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/register-form.php on line 54
+[30-Jan-2018 06:38:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'empresa33' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Jan-2018 06:40:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Jan-2018 06:42:12 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/auth/register-form.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/auth/register-form.php on line 30
+[30-Jan-2018 06:44:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'persona33' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Jan-2018 21:33:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[30-Jan-2018 21:49:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[31-Jan-2018 00:36:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nombre' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:33
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(33): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(68): emprendedor_emprendedor->newEmprendedor(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 33
+[31-Jan-2018 20:07:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mauricio77_77@yahoo.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[31-Jan-2018 20:51:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'InSight' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[31-Jan-2018 21:57:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[01-Feb-2018 21:10:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'kurtain' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[01-Feb-2018 21:10:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'lol@loca.com' for key 'email' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[01-Feb-2018 21:11:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[01-Feb-2018 21:11:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'klojera' for key 'username' in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[01-Feb-2018 23:07:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26
+[02-Feb-2018 21:49:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:26
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(26): PDOStatement->execute()
+#1 /home/intervn6/public_html/auth/register-form.php(15): usuario_global->registro(Object(usuario), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 26

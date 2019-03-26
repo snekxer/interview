@@ -1,0 +1,1311 @@
+[10-Jan-2018 14:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/intervn6/public_html/curriculum/educacion.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 6
+[10-Jan-2018 15:52:31 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[10-Jan-2018 15:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[10-Jan-2018 16:00:15 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[10-Jan-2018 16:00:18 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[10-Jan-2018 16:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:15:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 16:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[10-Jan-2018 16:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[10-Jan-2018 16:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[11-Jan-2018 19:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[11-Jan-2018 19:34:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[11-Jan-2018 21:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[11-Jan-2018 21:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[11-Jan-2018 22:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[11-Jan-2018 22:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[14-Jan-2018 02:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[14-Jan-2018 02:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[14-Jan-2018 02:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[14-Jan-2018 02:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[14-Jan-2018 17:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[14-Jan-2018 18:47:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[14-Jan-2018 20:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[14-Jan-2018 21:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[14-Jan-2018 22:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[14-Jan-2018 23:50:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 01:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 02:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 03:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 04:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 06:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 08:44:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[15-Jan-2018 08:48:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:392
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 392
+[15-Jan-2018 08:54:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[15-Jan-2018 08:54:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[15-Jan-2018 08:54:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[15-Jan-2018 08:54:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[15-Jan-2018 08:57:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 08:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method idioma::getNivel() in /home/intervn6/public_html/curriculum/ver-cv.php:254
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 254
+[15-Jan-2018 08:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 09:03:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on integer in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:569
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/referencias.php(8): curriculum_persona->getReferenciaFromId(18, Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 569
+[15-Jan-2018 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 09:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 09:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 18:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 20:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 21:00:19 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:161
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(26): curriculum_global->getCurriculumFromId(252, Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(11): CV->buildCV(252, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 161
+[15-Jan-2018 21:00:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[15-Jan-2018 21:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[15-Jan-2018 21:01:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[15-Jan-2018 21:02:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[15-Jan-2018 21:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 21:09:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[15-Jan-2018 21:13:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[15-Jan-2018 21:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method conocimientos::buildFormacion() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:97
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(31): curriculum_global->getFormacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(11): CV->buildCV(252, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 97
+[15-Jan-2018 21:22:28 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/competencia.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/competencia.php on line 7
+[15-Jan-2018 22:24:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:26:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:34:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[15-Jan-2018 22:35:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:38:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 22:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[15-Jan-2018 23:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/competencia.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/competencia.php on line 74
+[15-Jan-2018 23:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 01:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 04:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 04:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 05:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 12:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 12:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 15:00:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[16-Jan-2018 23:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[17-Jan-2018 07:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[17-Jan-2018 13:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[23-Jan-2018 17:30:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(388, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(388, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 17:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(388, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:04:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'discapacidad' cannot be null in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:43
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(43): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(14): curriculum_persona->newCurriculum(Object(curriculum), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 43
+[23-Jan-2018 19:04:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'discapacidad' cannot be null in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:43
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(43): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(14): curriculum_persona->newCurriculum(Object(curriculum), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 43
+[23-Jan-2018 19:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:361
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 361
+[23-Jan-2018 19:08:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:361
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 361
+[23-Jan-2018 19:09:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:11:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:12:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 19:13:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 21:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[23-Jan-2018 21:16:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[23-Jan-2018 21:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[23-Jan-2018 21:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:24 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:27 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[23-Jan-2018 21:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:46 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:36:49 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:38:41 UTC] PHP Fatal error:  Uncaught Error: Class 'curriculum_persona' not found in /home/intervn6/public_html/curriculum/educacion.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/educacion.php on line 7
+[23-Jan-2018 21:39:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:39:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:39:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:39:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:39:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 21:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 21:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 21:40:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 21:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[23-Jan-2018 21:44:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[23-Jan-2018 21:44:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:389
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(389): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/educacion.php(65): meta_global->getAllNivelesEdu(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 389
+[24-Jan-2018 01:32:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/cv.php(170): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[24-Jan-2018 01:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(364, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(334, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(336, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(333, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(385, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(356, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(348, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(367, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(362, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(332, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(343, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 01:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(388, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 08:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 09:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 14:07:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(82, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 14:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(303, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 14:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 14:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(282, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 17:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[24-Jan-2018 17:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(266, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 00:48:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(82, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 07:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(282, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 11:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(303, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 12:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 13:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(266, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 13:12:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 17:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[25-Jan-2018 19:53:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(364, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 19:53:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(388, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 19:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(385, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 19:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 19:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(356, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 19:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(336, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 22:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[25-Jan-2018 23:08:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/cv.php(170): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[25-Jan-2018 23:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 01:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 10:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 13:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 15:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 16:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 17:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 18:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 19:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(325, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 20:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(315, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(362, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(367, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(343, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(334, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(332, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(333, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[26-Jan-2018 21:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(348, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[27-Jan-2018 00:00:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/cv.php(170): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 01:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[30-Jan-2018 01:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[30-Jan-2018 01:37:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(59): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:360
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(10): CV->buildCVPersona(310, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 360
+[30-Jan-2018 05:17:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(59): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:19:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/curriculum/idioma.php on line 63
+[30-Jan-2018 05:19:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(74): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:19:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/curriculum/idioma.php on line 63
+[30-Jan-2018 05:19:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(74): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:19:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/curriculum/idioma.php on line 63
+[30-Jan-2018 05:19:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(74): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:19:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/curriculum/idioma.php on line 63
+[30-Jan-2018 05:19:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(74): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:20:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(61): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:21:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY nombre' at line 1 in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:364
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php(364): PDO->prepare('SELECT * FROM n...')
+#1 /home/intervn6/public_html/curriculum/idioma.php(66): meta_global->getAllNiveles(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 364
+[30-Jan-2018 05:43:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '310' for key 'PRIMARY' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:43
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(43): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(14): curriculum_persona->newCurriculum(Object(curriculum), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 43
+[30-Jan-2018 05:43:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '310' for key 'PRIMARY' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:43
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(43): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(14): curriculum_persona->newCurriculum(Object(curriculum), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 43
+[30-Jan-2018 06:07:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/intervn6/public_html/curriculum/cv-form.php on line 89
+[30-Jan-2018 06:08:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'asp_sal' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:164
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(164): PDO->prepare('UPDATE curricul...')
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(19): curriculum_persona->editCurriculum(NULL, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 164
+[30-Jan-2018 06:08:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAspSalarial() on null in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:166
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/crear_cv.php(19): curriculum_persona->editCurriculum(NULL, Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 166
+[30-Jan-2018 06:09:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/crear_cv.php:23) in /home/intervn6/public_html/curriculum/crear_cv.php on line 24
+[01-Feb-2018 01:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(266, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(266, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(282, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(282, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(303, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(303, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(307, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(307, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(82, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 01:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(82, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 08:02:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 08:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(266, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(266, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(282, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(282, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:24:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(285, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:25:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(303, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(303, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(307, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(307, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:25:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(82, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[01-Feb-2018 17:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(12): CV->buildCV(82, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[02-Feb-2018 05:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/experiencia.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/experiencia.php on line 177
+[02-Feb-2018 06:45:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/crear_cv.php:23) in /home/intervn6/public_html/curriculum/crear_cv.php on line 24
+[02-Feb-2018 08:06:51 UTC] PHP Parse error:  syntax error, unexpected '$exp' (T_VARIABLE), expecting ',' or ';' in /home/intervn6/public_html/curriculum/ver-cv.php on line 109
+[02-Feb-2018 09:17:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:17:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:18:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:19:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:19:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:19:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:19:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:19:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:19:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:20:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:20:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:20:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 09:20:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[02-Feb-2018 13:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method experiencia::getIndustria() in /home/intervn6/public_html/curriculum/experiencia.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/experiencia.php on line 64

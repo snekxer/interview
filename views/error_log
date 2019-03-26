@@ -1,0 +1,203 @@
+[20-Dec-2017 01:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 01:57:56 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 01:59:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 01:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 01:59:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 01:59:23 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 01:59:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 01:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 02:00:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 02:00:42 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 02:00:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 02:00:44 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 02:00:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 02:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[20-Dec-2017 02:02:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2017 02:03:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Dec-2017 21:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on boolean in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on null in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on null in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:07:36 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 272
+[21-Dec-2017 21:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on null in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:09:19 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 272
+[21-Dec-2017 21:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on boolean in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on boolean in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:10:41 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/intervn6/public_html/data/Functions/Meta/Buscador.php:271
+Stack trace:
+#0 /home/intervn6/public_html/views/test.php(4): buscador->buscarPersonasIndex('loldum', Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 271
+[21-Dec-2017 21:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on boolean in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:11:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on boolean in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:12:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/intervn6/public_html/data/Functions/Meta/Buscador.php:273
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Buscador.php(273): PDOStatement->execute()
+#1 /home/intervn6/public_html/views/test.php(4): buscador->buscarPersonasIndex('loldum', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 273
+[21-Dec-2017 21:15:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031  in /home/intervn6/public_html/data/Functions/Meta/Buscador.php:276
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Buscador.php(276): PDOStatement->execute()
+#1 /home/intervn6/public_html/views/test.php(4): buscador->buscarPersonasIndex('loldum', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 276
+[21-Dec-2017 21:15:39 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 272
+[21-Dec-2017 21:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on boolean in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[21-Dec-2017 21:16:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031  in /home/intervn6/public_html/data/Functions/Meta/Buscador.php:273
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Buscador.php(273): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/views/test.php(4): buscador->buscarPersonasIndex('loldum', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Buscador.php on line 273
+[21-Dec-2017 21:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombres() on array in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[28-Dec-2017 22:01:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/views/test.php(4): usuario_global->searchUsr('288', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:02:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/views/test.php(4): usuario_global->searchUsr('288', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[28-Dec-2017 22:03:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/views/test.php(4): usuario_global->searchUsr('288', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[28-Dec-2017 22:03:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[28-Dec-2017 22:21:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(39): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'servicios_global' not found in /home/intervn6/public_html/views/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 3
+[28-Dec-2017 22:27:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(39): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:27:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(40): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:28:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(40): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:28:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(40): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:28:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(40): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:28:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:191
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(191): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Global.php(40): servicio->buildServicio(2, Object(PDO))
+#3 /home/intervn6/public_html/views/test.php(8): servicios_global->getServicios(Object(empresa), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 191
+[28-Dec-2017 22:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTitulo() on array in /home/intervn6/public_html/views/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 10
+[02-Jan-2018 18:31:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:92
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(92): PDO->prepare('SELECT * FROM u...')
+#1 /home/intervn6/public_html/views/test.php(4): usuario_global->fakeLogin('titoqr@hotmail....', Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 92
+[02-Jan-2018 20:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method persona::getNombre() in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5
+[02-Jan-2018 20:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method persona::getNombre() in /home/intervn6/public_html/views/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/test.php on line 5

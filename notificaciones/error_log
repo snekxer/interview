@@ -1,0 +1,69 @@
+[21-Dec-2017 18:21:46 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/intervn6/public_html/notificaciones/notificaciones.php on line 2
+[21-Dec-2017 18:21:46 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/notificaciones/notificaciones.php on line 2
+[21-Dec-2017 20:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:271
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(20): usuario_global::getAreasInt(Object(PDO))
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(16): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 271
+[21-Dec-2017 20:07:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 23
+[21-Dec-2017 20:07:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031  in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:49
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(49): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(16): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 49
+[21-Dec-2017 20:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:271
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(20): usuario_global::getAreasInt(Object(PDO))
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(16): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 271
+[21-Dec-2017 20:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getArea() on null in /home/intervn6/public_html/notificaciones/notificaciones.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/notificaciones/notificaciones.php on line 37
+[21-Dec-2017 20:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getGenero() on null in /home/intervn6/public_html/core/Meta/Area.php:30
+Stack trace:
+#0 /home/intervn6/public_html/notificaciones/notificaciones.php(37): area->getImg(NULL)
+#1 {main}
+  thrown in /home/intervn6/public_html/core/Meta/Area.php on line 30
+[21-Dec-2017 20:09:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 23
+[21-Dec-2017 20:09:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2031  in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:47
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(47): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(16): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 47
+[21-Dec-2017 20:10:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/notificaciones/notificaciones.php on line 32
+[21-Dec-2017 20:10:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/notificaciones/notificaciones.php on line 52
+[09-Jan-2018 20:17:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:31
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(31): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(28): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 31
+[09-Jan-2018 20:17:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:31
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(31): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(28): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 31
+[09-Jan-2018 20:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:31
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(31): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(28): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 31
+[09-Jan-2018 20:18:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:31
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(31): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(28): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 31
+[09-Jan-2018 20:26:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php:48
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php(48): PDOStatement->execute(Array)
+#1 /home/intervn6/public_html/notificaciones/notificaciones.php(28): notificacion->__construct(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Notificaciones.php on line 48

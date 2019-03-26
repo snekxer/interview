@@ -1,0 +1,244 @@
+[19-Dec-2017 07:03:30 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/intervn6/public_html/views/curriculum/cv.php on line 2
+[19-Dec-2017 07:03:30 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/views/curriculum/cv.php on line 2
+[19-Dec-2017 07:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'meta_global' not found in /home/intervn6/public_html/views/curriculum/cv.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/curriculum/cv.php on line 5
+[27-Dec-2017 05:27:41 UTC] PHP Warning:  include(../../header.php): failed to open stream: No such file or directory in /home/intervn6/public_html/curriculum/cv.php on line 2
+[27-Dec-2017 05:27:41 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/curriculum/cv.php on line 2
+[27-Dec-2017 05:27:41 UTC] PHP Fatal error:  Uncaught Error: Class 'meta_global' not found in /home/intervn6/public_html/curriculum/cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/cv.php on line 4
+[08-Jan-2018 21:19:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/registro_cv.php:1) in /home/intervn6/public_html/h.php on line 2
+[08-Jan-2018 21:19:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[08-Jan-2018 21:19:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/registro_cv.php:1) in /home/intervn6/public_html/h.php on line 2
+[08-Jan-2018 21:19:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[08-Jan-2018 21:21:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/registro_cv.php:1) in /home/intervn6/public_html/h.php on line 2
+[08-Jan-2018 21:21:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[08-Jan-2018 21:23:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/registro_cv.php:1) in /home/intervn6/public_html/h.php on line 2
+[08-Jan-2018 21:23:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[08-Jan-2018 21:36:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/registro_cv.php:1) in /home/intervn6/public_html/h.php on line 2
+[08-Jan-2018 21:36:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[09-Jan-2018 16:14:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[09-Jan-2018 16:14:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[09-Jan-2018 16:14:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'discapacidad' cannot be null in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:43
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(43): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(14): curriculum_persona->newCurriculum(Object(curriculum), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 43
+[09-Jan-2018 16:15:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/cv-form.php:1) in /home/intervn6/public_html/header.php on line 2
+[09-Jan-2018 16:15:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '252' for key 'PRIMARY' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:43
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(43): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/crear_cv.php(14): curriculum_persona->newCurriculum(Object(curriculum), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 43
+[09-Jan-2018 16:17:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/intervn6/public_html/curriculum/registro_cv.php:1) in /home/intervn6/public_html/h.php on line 2
+[09-Jan-2018 16:17:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[09-Jan-2018 16:17:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.nivel` FOREIGN KEY (`nivel`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/registro_cv.php(84): curriculum_persona::newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[09-Jan-2018 19:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method curriculum_persona::getCurriculumFromId() in /home/intervn6/public_html/core/Persona/Curriculum/CV.php:38
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/ver-cv.php(7): CV->buildCVPersona(252, Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/core/Persona/Curriculum/CV.php on line 38
+[09-Jan-2018 19:17:01 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:492
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(38): curriculum_persona->getCurriculumFromId(252, Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(7): CV->buildCVPersona(252, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 492
+[09-Jan-2018 19:19:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intervn6_interviewn.curr_commpetencias' doesn't exist in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:357
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(357): PDO->prepare('SELECT * FROM c...')
+#1 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(39): curriculum_persona->getCompetencias(Object(curriculum), Object(PDO))
+#2 /home/intervn6/public_html/curriculum/ver-cv.php(7): CV->buildCVPersona(252, Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 357
+[09-Jan-2018 19:20:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intervn6_interviewn.curr_conocimiento' doesn't exist in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:373
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(373): PDO->prepare('SELECT * FROM c...')
+#1 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(40): curriculum_persona->getConocimientos(Object(curriculum), Object(PDO))
+#2 /home/intervn6/public_html/curriculum/ver-cv.php(7): CV->buildCVPersona(252, Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 373
+[09-Jan-2018 19:21:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:21:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method persona::getAspSalarial() in /home/intervn6/public_html/curriculum/ver-cv.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 39
+[09-Jan-2018 19:22:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method persona::getDispTiempo() in /home/intervn6/public_html/curriculum/ver-cv.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 40
+[09-Jan-2018 19:22:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:38:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:40:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:44:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:46:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:48:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:48:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 22
+[09-Jan-2018 19:49:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:49:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 19:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 22
+[09-Jan-2018 20:03:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:08:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:09:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:09:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:14:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:16:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 20:17:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 21:23:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[09-Jan-2018 21:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[09-Jan-2018 21:48:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[10-Jan-2018 02:13:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(0, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 02:13:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:390
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(41): curriculum_persona->getEducacion(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/curriculum/ver-cv.php(9): CV->buildCVPersona(242, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 390
+[10-Jan-2018 02:13:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:16:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:17:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[10-Jan-2018 02:20:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[10-Jan-2018 02:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/curriculum/ver-cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/ver-cv.php on line 4
+[10-Jan-2018 02:21:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:25:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:30:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:31:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:37:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:39:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 02:49:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 458
+[10-Jan-2018 17:00:48 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/intervn6/public_html/curriculum/unused/cv.php on line 2
+[10-Jan-2018 17:00:48 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/curriculum/unused/cv.php on line 2
+[10-Jan-2018 17:00:48 UTC] PHP Fatal error:  Uncaught Error: Class 'meta_global' not found in /home/intervn6/public_html/curriculum/unused/cv.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/unused/cv.php on line 4

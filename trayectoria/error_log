@@ -1,0 +1,210 @@
+[03-Jan-2018 01:15:48 UTC] PHP Warning:  move_uploaded_file(/home/intervn6/public_html/uploads/omp/pro/448e09d976a496f4cdff2689e1297abf745f7379.png): failed to open stream: No such file or directory in /home/intervn6/public_html/core/Meta/Uploader.php on line 234
+[03-Jan-2018 01:15:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEfXvlZ' to '/home/intervn6/public_html/uploads/omp/pro/448e09d976a496f4cdff2689e1297abf745f7379.png' in /home/intervn6/public_html/core/Meta/Uploader.php on line 234
+[03-Jan-2018 01:15:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:58
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(58): PDO->prepare('INSERT INTO tra...')
+#1 /home/intervn6/public_html/trayectoria/crear-proyecto.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 58
+[03-Jan-2018 01:18:24 UTC] PHP Warning:  move_uploaded_file(/home/intervn6/public_html/uploads/omp/pro/448e09d976a496f4cdff2689e1297abf745f7379.png): failed to open stream: No such file or directory in /home/intervn6/public_html/core/Meta/Uploader.php on line 234
+[03-Jan-2018 01:18:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5GcueC' to '/home/intervn6/public_html/uploads/omp/pro/448e09d976a496f4cdff2689e1297abf745f7379.png' in /home/intervn6/public_html/core/Meta/Uploader.php on line 234
+[03-Jan-2018 01:18:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:58
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(58): PDO->prepare('INSERT INTO tra...')
+#1 /home/intervn6/public_html/trayectoria/crear-proyecto.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 58
+[03-Jan-2018 01:19:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:58
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(58): PDO->prepare('INSERT INTO tra...')
+#1 /home/intervn6/public_html/trayectoria/crear-proyecto.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 58
+[03-Jan-2018 02:12:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:18
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(18): PDO->prepare('SELECT * FROM t...')
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(59): trayectoria_emprendedor->getMyTra(Object(PDO))
+#2 /home/intervn6/public_html/trayectoria/crear-proyecto.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 18
+[03-Jan-2018 02:22:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:18
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(18): PDO->prepare('SELECT * FROM t...')
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(59): trayectoria_emprendedor->getMyTra(Object(PDO))
+#2 /home/intervn6/public_html/trayectoria/crear-proyecto.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 18
+[03-Jan-2018 04:04:19 UTC] PHP Fatal error:  Uncaught Error: Class 'trayectoria_emprendedor' not found in /home/intervn6/public_html/trayectoria/crear-proyecto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/crear-proyecto.php on line 4
+[12-Jan-2018 04:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/intervn6/public_html/trayectoria/datos-contacto.php on line 45
+[12-Jan-2018 04:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getDescripcion() in /home/intervn6/public_html/trayectoria/datos-contacto.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-contacto.php on line 15
+[12-Jan-2018 05:21:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:92
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(92): PDO->prepare('UPDATE trayecto...')
+#1 /home/intervn6/public_html/trayectoria/editar-trayectoria.php(11): trayectoria_emprendedor->editTrayectoria(Object(trayectoria), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 92
+[12-Jan-2018 05:27:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:92
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(92): PDO->prepare('UPDATE trayecto...')
+#1 /home/intervn6/public_html/trayectoria/editar-trayectoria.php(12): trayectoria_emprendedor->editTrayectoria(Object(trayectoria), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 92
+[16-Jan-2018 04:33:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`tra_proyecto`, CONSTRAINT `tra_proyecto.trayectoria` FOREIGN KEY (`tra_id`) REFERENCES `trayectoria` (`omp_id`)) in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:71
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(71): PDOStatement->execute()
+#1 /home/intervn6/public_html/trayectoria/crear-proyecto.php(12): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 71
+[22-Jan-2018 23:05:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`tra_proyecto`, CONSTRAINT `tra_proyecto.trayectoria` FOREIGN KEY (`tra_id`) REFERENCES `trayectoria` (`omp_id`)) in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:71
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(71): PDOStatement->execute()
+#1 /home/intervn6/public_html/trayectoria/crear-proyecto.php(12): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 71
+[24-Jan-2018 03:53:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:122
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(122): PDO->prepare('UPDATE trayecto...')
+#1 /home/intervn6/public_html/trayectoria/editar-trayectoria.php(12): trayectoria_emprendedor->editTrayectoria(Object(trayectoria), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 122
+[24-Jan-2018 03:55:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:86
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(86): PDOStatement->bindParam(':logo', NULL)
+#1 /home/intervn6/public_html/trayectoria/crear-proyecto.php(12): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 86
+[29-Jan-2018 16:13:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAcercaDe() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 35
+[29-Jan-2018 16:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAcercaDe() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 36
+[29-Jan-2018 16:14:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAcercaDe() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 36
+[29-Jan-2018 16:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::setId() in /home/intervn6/public_html/trayectoria/save-datos.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-datos.php on line 19
+[29-Jan-2018 16:16:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND omp_id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:122
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(122): PDO->prepare('UPDATE trayecto...')
+#1 /home/intervn6/public_html/trayectoria/save-datos.php(20): trayectoria_emprendedor->editTrayectoria(Object(trayectoria), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 122
+[29-Jan-2018 16:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:124
+Stack trace:
+#0 /home/intervn6/public_html/trayectoria/save-datos.php(20): trayectoria_emprendedor->editTrayectoria(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 124
+[29-Jan-2018 16:30:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'contacto' cannot be null in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:42
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(42): PDOStatement->execute()
+#1 /home/intervn6/public_html/trayectoria/save-datos.php(13): trayectoria_emprendedor->newTrayectoria(Object(trayectoria), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 42
+[29-Jan-2018 16:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::getProyecto() in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php on line 40
+[29-Jan-2018 16:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::getProyecto() in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php on line 40
+[29-Jan-2018 16:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::setProyecto() in /home/intervn6/public_html/trayectoria/save-pro.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-pro.php on line 11
+[29-Jan-2018 16:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::setId() in /home/intervn6/public_html/trayectoria/save-pro.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-pro.php on line 20
+[29-Jan-2018 16:33:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::setEmprendedor() in /home/intervn6/public_html/trayectoria/save-pro.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-pro.php on line 20
+[29-Jan-2018 16:35:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::setId() in /home/intervn6/public_html/trayectoria/save-pro.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-pro.php on line 20
+[29-Jan-2018 16:37:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:90
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(90): PDOStatement->bindParam(':logo', NULL)
+#1 /home/intervn6/public_html/trayectoria/save-pro.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 90
+[29-Jan-2018 16:38:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:94
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(94): PDOStatement->execute()
+#1 /home/intervn6/public_html/trayectoria/save-pro.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 94
+[29-Jan-2018 16:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::setId() in /home/intervn6/public_html/trayectoria/save-pro.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-pro.php on line 20
+[29-Jan-2018 17:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContacto() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 38
+[29-Jan-2018 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'duracion' cannot be null in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:75
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(75): PDOStatement->execute()
+#1 /home/intervn6/public_html/trayectoria/save-pro.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 75
+[29-Jan-2018 18:04:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContacto() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 38
+[29-Jan-2018 20:25:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContacto() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 38
+[29-Jan-2018 20:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContacto() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 38
+[29-Jan-2018 20:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContacto() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 38
+[29-Jan-2018 20:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getContacto() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 38
+[29-Jan-2018 20:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAcercaDe() on null in /home/intervn6/public_html/trayectoria/datos-emprendedor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/datos-emprendedor.php on line 35
+[29-Jan-2018 20:29:01 UTC] PHP Fatal error:  Uncaught Error: Class 'trayectoria_emprendedor' not found in /home/intervn6/public_html/trayectoria/save-pro.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/save-pro.php on line 4
+[31-Jan-2018 21:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmprendedor() on boolean in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:68
+Stack trace:
+#0 /home/intervn6/public_html/trayectoria/save-pro.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 68
+[31-Jan-2018 21:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmprendedor() on boolean in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:88
+Stack trace:
+#0 /home/intervn6/public_html/trayectoria/save-pro.php(14): trayectoria_emprendedor->newProyecto(Object(tra_proyecto), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 88
+[02-Feb-2018 10:00:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php on line 38
+[02-Feb-2018 13:10:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/trayectoria/proyectos-emprendedor.php on line 38

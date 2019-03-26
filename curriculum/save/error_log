@@ -1,0 +1,118 @@
+[11-Jan-2018 19:29:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function unseriliaze() in /home/intervn6/public_html/curriculum/save/edu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/save/edu.php on line 17
+[11-Jan-2018 19:30:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/save/edu.php:16) in /home/intervn6/public_html/curriculum/save/edu.php on line 17
+[14-Jan-2018 02:15:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_idiomas`, CONSTRAINT `idiomas.escrito` FOREIGN KEY (`escrito`) REFERENCES `niveles_m` (`id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:140
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(140): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/save/idio.php(13): curriculum_persona->newIdioma(Object(idioma), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 140
+[15-Jan-2018 08:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method formacion::geDescripcion() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:122
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/save/form.php(16): curriculum_persona->newFormacion(Object(formacion), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 122
+[15-Jan-2018 08:55:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_formacion`, CONSTRAINT `formacion.curriculum` FOREIGN KEY (`curr_id`) REFERENCES `curriculum` (`per_id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:128
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(128): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/save/form.php(16): curriculum_persona->newFormacion(Object(formacion), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 128
+[15-Jan-2018 08:58:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subarea' cannot be null in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:70
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(70): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/save/cono.php(14): curriculum_persona->newConocimiento(Object(conocimientos), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 70
+[15-Jan-2018 22:36:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subarea' cannot be null in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:70
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(70): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/save/cono.php(14): curriculum_persona->newConocimiento(Object(conocimientos), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 70
+[30-Jan-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setId() on null in /home/intervn6/public_html/curriculum/save/idio.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/save/idio.php on line 20
+[30-Jan-2018 05:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method formacion::geDescripcion() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:122
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/save/form.php(16): curriculum_persona->newFormacion(Object(formacion), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 122
+[30-Jan-2018 05:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method formacion::geDescripcion() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:250
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/save/form.php(24): curriculum_persona->editFormacion(Object(formacion), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 250
+[30-Jan-2018 05:36:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`intervn6_interviewn`.`curr_competencias`, CONSTRAINT `competencias.curriculum` FOREIGN KEY (`curr_id`) REFERENCES `curriculum` (`per_id`)) in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:57
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(57): PDOStatement->execute()
+#1 /home/intervn6/public_html/curriculum/save/comp.php(11): curriculum_persona->newCompetencia(Object(competencias), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 57
+[30-Jan-2018 05:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:56
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/save/comp.php(11): curriculum_persona->newCompetencia(Object(competencias), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 56
+[30-Jan-2018 05:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method competencias::getDispTiempo() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:178
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/save/comp.php(19): curriculum_persona->editCompetencia(Object(competencias), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 178
+[31-Jan-2018 20:49:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fec_ini' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:97
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(97): PDO->prepare('INSERT INTO cur...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 97
+[02-Feb-2018 05:52:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fec_ini' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:97
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(97): PDO->prepare('INSERT INTO cur...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 97
+[02-Feb-2018 06:06:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fec_ini' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:97
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(97): PDO->prepare('INSERT INTO cur...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 97
+[02-Feb-2018 06:41:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fec_ini' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:97
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(97): PDO->prepare('INSERT INTO cur...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 97
+[02-Feb-2018 13:34:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fec_ini' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:97
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(97): PDO->prepare('INSERT INTO cur...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 97
+[02-Feb-2018 13:36:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc_cargo' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:97
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(97): PDO->prepare('INSERT INTO cur...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 97
+[02-Feb-2018 13:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method experiencia::getIndustria() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:109
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/save/exp.php(26): curriculum_persona->newExperiencia(Object(experiencia), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 109
+[02-Feb-2018 13:38:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fec_ini' in 'field list' in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:222
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(222): PDO->prepare('UPDATE curr_exp...')
+#1 /home/intervn6/public_html/curriculum/save/exp.php(34): curriculum_persona->editExperiencia(Object(experiencia), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 222
+[02-Feb-2018 13:42:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+				    WHERE curr_id=? AND id=? AND estado='A'' at line 1 in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:188
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php(188): PDO->prepare('UPDATE curr_con...')
+#1 /home/intervn6/public_html/curriculum/save/cono.php(22): curriculum_persona->editConocimiento(Object(conocimientos), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 188

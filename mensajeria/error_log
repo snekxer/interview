@@ -1,0 +1,332 @@
+[14-Jan-2018 16:01:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mensajes_persona() in /home/intervn6/public_html/mensajeria/enviar-mensaje.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/enviar-mensaje.php on line 7
+[14-Jan-2018 16:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:19
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(24): mensajes_persona->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 19
+[14-Jan-2018 16:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:19
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(24): mensajes_persona->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 19
+[14-Jan-2018 16:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:19
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(25): mensajes_persona->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 19
+[14-Jan-2018 16:18:11 UTC] PHP Fatal error:  Uncaught Error: Class 'mensajes_persona' not found in /home/intervn6/public_html/mensajeria/enviar-mensaje.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/enviar-mensaje.php on line 9
+[14-Jan-2018 16:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Emprendedor.php:18
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(24): mensajes_emprendedor->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Emprendedor.php on line 18
+[14-Jan-2018 21:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'mensaje' not found in /home/intervn6/public_html/mensajeria/enviar-mensaje.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/enviar-mensaje.php on line 20
+[15-Jan-2018 04:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:19
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(24): mensajes_persona->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 19
+[24-Jan-2018 19:17:30 UTC] PHP Fatal error:  Uncaught Error: Class 'mensajes_empresa' not found in /home/intervn6/public_html/mensajeria/mensajeria.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/mensajeria.php on line 37
+[24-Jan-2018 22:24:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/intervn6/public_html/mensajeria/mensajeria.php on line 172
+[24-Jan-2018 22:24:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/mensajeria/mensajeria.php on line 59
+[29-Jan-2018 16:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Emprendedor.php:18
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(20): mensajes_emprendedor->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Emprendedor.php on line 18
+[30-Jan-2018 19:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function activity() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php:21
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(20): mensajes_empresa->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php on line 21
+[31-Jan-2018 00:33:38 UTC] PHP Fatal error:  Uncaught Error: Class 'mensaje' not found in /home/intervn6/public_html/mensajeria/enviar-mensaje.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/enviar-mensaje.php on line 16
+[31-Jan-2018 00:34:01 UTC] PHP Fatal error:  Uncaught Error: Class 'mensaje' not found in /home/intervn6/public_html/mensajeria/enviar-mensaje.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/enviar-mensaje.php on line 16
+[01-Feb-2018 16:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria-clone.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:22:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria-clone.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria-clone.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria-clone.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[01-Feb-2018 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/mensajeria/mensajeria-clone.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/mensajeria-clone.php on line 41
+[01-Feb-2018 16:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/mensajeria/mensajeria-clone.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/mensajeria-clone.php on line 41
+[01-Feb-2018 16:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/mensajeria/mensajeria-clone.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/mensajeria-clone.php on line 41
+[02-Feb-2018 00:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:19
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(20): mensajes_persona->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 19
+[02-Feb-2018 13:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function activity() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php:21
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(20): mensajes_empresa->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php on line 21
+[02-Feb-2018 13:55:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/intervn6/public_html/mensajeria/mensajeria-clone.php on line 176
+[02-Feb-2018 15:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function searchUsrById() on null in /home/intervn6/public_html/mensajeria/conv.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 7
+[02-Feb-2018 15:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function searchUsrById() on null in /home/intervn6/public_html/mensajeria/conv.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 7
+[02-Feb-2018 15:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function searchUsrById() on null in /home/intervn6/public_html/mensajeria/conv.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 7
+[02-Feb-2018 15:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function searchUsrById() on null in /home/intervn6/public_html/mensajeria/conv.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 7
+[02-Feb-2018 15:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function searchUsrById() on null in /home/intervn6/public_html/mensajeria/conv.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 7
+[02-Feb-2018 15:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario_global' not found in /home/intervn6/public_html/mensajeria/conv.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 5
+[02-Feb-2018 15:32:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:190
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(190): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(28): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 190
+[02-Feb-2018 15:33:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:190
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(190): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 190
+[02-Feb-2018 15:34:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:190
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(190): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 190
+[02-Feb-2018 15:34:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:190
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(190): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 190
+[02-Feb-2018 15:34:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:190
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(190): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 190
+[02-Feb-2018 15:34:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:34:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:34:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:34:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:34:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:34:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:36:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:36:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:37:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:37:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:37:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:37:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:38:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:192
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(192): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Mensaje.php(28): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Empresa.php(90): mensaje->buildMensaje(Array, Object(PDO))
+#3 /home/intervn6/public_html/mensajeria/conv.php(27): mensajes_empresa->getMensajesFromUsr(Object(mensaje), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 192
+[02-Feb-2018 15:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/intervn6/public_html/mensajeria/conv.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 48
+[02-Feb-2018 15:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/intervn6/public_html/mensajeria/conv.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 48
+[02-Feb-2018 15:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/intervn6/public_html/mensajeria/conv.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 49
+[02-Feb-2018 15:41:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/intervn6/public_html/mensajeria/conv.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 49
+[02-Feb-2018 15:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/intervn6/public_html/mensajeria/conv.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/mensajeria/conv.php on line 49
+[02-Feb-2018 17:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria.php(37): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[02-Feb-2018 17:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::excecute() in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:52
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/mensajeria-clone.php(34): mensajes_persona->getUsrs(Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 52
+[02-Feb-2018 21:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on string in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php:19
+Stack trace:
+#0 /home/intervn6/public_html/mensajeria/enviar-mensaje.php(20): mensajes_persona->sendMensaje(Object(mensaje), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Mensajes/Mensajes_Persona.php on line 19

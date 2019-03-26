@@ -1,0 +1,1075 @@
+[19-Dec-2017 08:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/views/perfiles/emprendedores/perfil-emprendedores.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/views/perfiles/emprendedores/perfil-emprendedores.php on line 44
+[19-Dec-2017 21:48:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/fileinfo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Dec-2017 21:48:52 UTC] PHP Warning:  include(../../../header.php): failed to open stream: No such file or directory in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 2
+[19-Dec-2017 21:48:52 UTC] PHP Warning:  include(): Failed opening '../../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 2
+[19-Dec-2017 21:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'meta_global' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 27
+[28-Dec-2017 17:19:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:26:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:29:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:29:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:34:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:34:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:34:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:41:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(148): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 17:43:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:07:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:08:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:18:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:19:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:19:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[28-Dec-2017 19:20:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:28:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 19:28:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(203): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 20:57:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php:172
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php(172): PDO->prepare('')
+#1 /home/intervn6/public_html/core/Servicio.php(35): usuario_global::searchUsr('', Object(PDO))
+#2 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Emprendedor.php(204): servicio->buildServicio(3, Object(PDO))
+#3 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(151): servicios_emprendedor->getServicios(Object(emprendedor), Object(PDO))
+#4 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Usuario_Global.php on line 172
+[28-Dec-2017 21:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method servicio::getGenero() in /home/intervn6/public_html/core/Meta/Area.php:30
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(157): area->getImg(Object(servicio))
+#1 {main}
+  thrown in /home/intervn6/public_html/core/Meta/Area.php on line 30
+[28-Dec-2017 21:03:15 UTC] PHP Warning:  Missing argument 1 for area::getImg(), called in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 157 and defined in /home/intervn6/public_html/core/Meta/Area.php on line 29
+[28-Dec-2017 21:03:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getGenero() on null in /home/intervn6/public_html/core/Meta/Area.php:30
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(157): area->getImg()
+#1 {main}
+  thrown in /home/intervn6/public_html/core/Meta/Area.php on line 30
+[29-Dec-2017 17:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[29-Dec-2017 17:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[29-Dec-2017 17:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 45
+[03-Jan-2018 00:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getVideo() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 118
+[03-Jan-2018 00:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getVideo() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 118
+[03-Jan-2018 02:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(222): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(222): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:45:37 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(220): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:45:38 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(220): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:49:28 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(220): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(220): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:51:05 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:51:11 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 02:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 03:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 03:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 03:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 03:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 04:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 04:04:38 UTC] PHP Fatal error:  Uncaught Error: Class 'emprendedor_global' not found in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php:22
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoria(Array, Object(PDO))
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php on line 22
+[03-Jan-2018 04:06:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:06:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:08:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:10:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:10:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php:64
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor(308, Object(PDO))
+#1 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 64
+[03-Jan-2018 04:11:13 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 69 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[03-Jan-2018 04:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(69): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor('308', Object(PDO))
+#3 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#4 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#5 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[03-Jan-2018 04:11:14 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 69 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[03-Jan-2018 04:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(69): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor('308', Object(PDO))
+#3 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#4 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#5 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[03-Jan-2018 04:11:47 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 69 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[03-Jan-2018 04:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(69): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor('308', Object(PDO))
+#3 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#4 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#5 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[03-Jan-2018 04:11:48 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 69 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[03-Jan-2018 04:11:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(69): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor('308', Object(PDO))
+#3 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#4 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#5 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[03-Jan-2018 04:13:02 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 69 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[03-Jan-2018 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(69): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor('308', Object(PDO))
+#3 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#4 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#5 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[03-Jan-2018 04:13:02 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php on line 69 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[03-Jan-2018 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Emprendedor.php(69): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/core/Emprendedor/Trayectoria/Trayectoria.php(29): emprendedor_emprendedor::getEmprendedor('308', Object(PDO))
+#3 /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php(138): trayectoria->buildTrayectoriaEmprendedor(Array, Object(PDO))
+#4 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(221): trayectoria_emprendedor->getTrayectoria(Object(emprendedor), Object(PDO))
+#5 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[03-Jan-2018 04:32:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 224
+[03-Jan-2018 04:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 224
+[03-Jan-2018 04:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:224
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 224
+[12-Jan-2018 08:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'trayectoria_global' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 222
+[12-Jan-2018 08:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'trayectoria_global' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 222
+[12-Jan-2018 08:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 08:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:47:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:49:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:53:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:54:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 10:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 17:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 17:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 17:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 17:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 17:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 17:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 18:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 18:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:19:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:24:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:24:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:49:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 19:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php:160
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(250): trayectoria_emprendedor->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Emprendedor.php on line 160
+[12-Jan-2018 20:35:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 253
+[12-Jan-2018 20:35:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 253
+[15-Jan-2018 19:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prepapre() in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php:15
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(11): emprendedor_global->getEmprendedor(308, Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php on line 15
+[15-Jan-2018 19:17:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php:15
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php(15): PDO->prepare('SELECT * FROM e...')
+#1 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(11): emprendedor_global->getEmprendedor(308, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php on line 15
+[15-Jan-2018 19:17:30 UTC] PHP Warning:  Missing argument 2 for emprendedor::buildEmprendedor(), called in /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php on line 20 and defined in /home/intervn6/public_html/core/Emprendedor/Emprendedor.php on line 35
+[15-Jan-2018 19:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:145
+Stack trace:
+#0 /home/intervn6/public_html/core/Emprendedor/Emprendedor.php(45): meta_global::getIndustria(4, NULL)
+#1 /home/intervn6/public_html/data/Functions/Perfiles/Emprendedor/Emprendedor_Global.php(20): emprendedor->buildEmprendedor(Array)
+#2 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(11): emprendedor_global->getEmprendedor('308', Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 145
+[15-Jan-2018 19:17:57 UTC] PHP Fatal error:  Uncaught Error: Class 'servicios_emprendedor' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 166
+[15-Jan-2018 19:17:58 UTC] PHP Fatal error:  Uncaught Error: Class 'servicios_emprendedor' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 166
+[15-Jan-2018 19:20:23 UTC] PHP Fatal error:  Uncaught Error: Class 'servicios_emprendedor' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 166
+[15-Jan-2018 19:20:23 UTC] PHP Fatal error:  Uncaught Error: Class 'servicios_emprendedor' not found in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 166
+[15-Jan-2018 19:22:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(251): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[15-Jan-2018 19:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(251): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[15-Jan-2018 19:23:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(251): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[15-Jan-2018 19:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(251): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[15-Jan-2018 23:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(249): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[15-Jan-2018 23:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(249): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[16-Jan-2018 20:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(249): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[16-Jan-2018 20:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(249): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[16-Jan-2018 20:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(249): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[16-Jan-2018 20:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(249): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[23-Jan-2018 07:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTema() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:341
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 341
+[23-Jan-2018 07:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getTema() on null in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:341
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 341
+[24-Jan-2018 01:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 01:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[24-Jan-2018 03:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::getId() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 234
+[24-Jan-2018 03:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::getId() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 234
+[24-Jan-2018 03:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method tra_proyecto::getId() in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php on line 234
+[26-Jan-2018 21:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[26-Jan-2018 21:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(210): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 03:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(213): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 03:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(213): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 13:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(215): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 21:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(216): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 21:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(216): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 21:33:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(216): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43
+[02-Feb-2018 21:33:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method trayectoria::getId() in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php:43
+Stack trace:
+#0 /home/intervn6/public_html/perfiles/emprendedores/perfil-emprendedores.php(216): trayectoria_global->getProyectos(Object(trayectoria), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Trayectoria/Trayectoria_Global.php on line 43

@@ -1,0 +1,32 @@
+[11-Jan-2018 19:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function unseriliaze() in /home/intervn6/public_html/curriculum/del/edu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/del/edu.php on line 10
+[30-Jan-2018 05:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function unseriliaze() in /home/intervn6/public_html/curriculum/del/idio.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/del/idio.php on line 10
+[30-Jan-2018 05:26:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/idio.php:9) in /home/intervn6/public_html/curriculum/del/idio.php on line 10
+[30-Jan-2018 05:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/idio.php:9) in /home/intervn6/public_html/curriculum/del/idio.php on line 10
+[30-Jan-2018 05:27:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/idio.php:9) in /home/intervn6/public_html/curriculum/del/idio.php on line 10
+[30-Jan-2018 05:28:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/idio.php:9) in /home/intervn6/public_html/curriculum/del/idio.php on line 10
+[30-Jan-2018 05:28:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/idio.php:9) in /home/intervn6/public_html/curriculum/del/idio.php on line 10
+[30-Jan-2018 05:35:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/form.php:9) in /home/intervn6/public_html/curriculum/del/form.php on line 10
+[30-Jan-2018 05:41:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/comp.php:9) in /home/intervn6/public_html/curriculum/del/comp.php on line 10
+[30-Jan-2018 05:42:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/ref.php:9) in /home/intervn6/public_html/curriculum/del/ref.php on line 10
+[30-Jan-2018 05:42:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/ref.php:9) in /home/intervn6/public_html/curriculum/del/ref.php on line 10
+[30-Jan-2018 05:43:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/ref.php:9) in /home/intervn6/public_html/curriculum/del/ref.php on line 10
+[02-Feb-2018 05:55:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/comp.php:9) in /home/intervn6/public_html/curriculum/del/comp.php on line 10
+[02-Feb-2018 05:55:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/comp.php:9) in /home/intervn6/public_html/curriculum/del/comp.php on line 10
+[02-Feb-2018 05:56:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/comp.php:9) in /home/intervn6/public_html/curriculum/del/comp.php on line 10
+[02-Feb-2018 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function unserialiaze() in /home/intervn6/public_html/curriculum/del/edu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/curriculum/del/edu.php on line 10
+[02-Feb-2018 08:56:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/ref.php:9) in /home/intervn6/public_html/curriculum/del/ref.php on line 10
+[02-Feb-2018 08:57:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intervn6/public_html/curriculum/del/ref.php:9) in /home/intervn6/public_html/curriculum/del/ref.php on line 10
+[02-Feb-2018 13:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getMyCurr() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php:299
+Stack trace:
+#0 /home/intervn6/public_html/curriculum/del/cono.php(9): curriculum_persona->delConocimiento(Object(conocimientos), Object(PDO))
+#1 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Persona.php on line 299

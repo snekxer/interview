@@ -1,0 +1,616 @@
+[28-Dec-2017 21:26:49 UTC] PHP Warning:  include(../header-postulaciones.php): failed to open stream: No such file or directory in /home/intervn6/public_html/postulaciones/postulaciones.php on line 2
+[28-Dec-2017 21:26:49 UTC] PHP Warning:  include(): Failed opening '../header-postulaciones.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/postulaciones/postulaciones.php on line 2
+[28-Dec-2017 21:28:28 UTC] PHP Warning:  include(/home/intervn6/public_html/public_html/core/Usuario.php): failed to open stream: No such file or directory in /home/intervn6/public_html/header-postulaciones.php on line 6
+[28-Dec-2017 21:28:28 UTC] PHP Warning:  include(): Failed opening '/home/intervn6/public_html/public_html/core/Usuario.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/header-postulaciones.php on line 6
+[28-Dec-2017 21:28:28 UTC] PHP Warning:  include(/home/intervn6/public_html/public_html/data/Functions/Perfiles/Usuario_Global.php): failed to open stream: No such file or directory in /home/intervn6/public_html/header-postulaciones.php on line 7
+[28-Dec-2017 21:28:28 UTC] PHP Warning:  include(): Failed opening '/home/intervn6/public_html/public_html/data/Functions/Perfiles/Usuario_Global.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/header-postulaciones.php on line 7
+[28-Dec-2017 21:28:28 UTC] PHP Fatal error:  Uncaught Error: Class 'usuario_global' not found in /home/intervn6/public_html/header-postulaciones.php:8
+Stack trace:
+#0 /home/intervn6/public_html/postulaciones/postulaciones.php(2): include()
+#1 {main}
+  thrown in /home/intervn6/public_html/header-postulaciones.php on line 8
+[28-Dec-2017 21:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllEdades() on null in /home/intervn6/public_html/header-postulaciones.php:134
+Stack trace:
+#0 /home/intervn6/public_html/postulaciones/postulaciones.php(2): include()
+#1 {main}
+  thrown in /home/intervn6/public_html/header-postulaciones.php on line 134
+[28-Dec-2017 21:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllEdades() on null in /home/intervn6/public_html/header-postulaciones.php:134
+Stack trace:
+#0 /home/intervn6/public_html/postulaciones/postulaciones.php(2): include()
+#1 {main}
+  thrown in /home/intervn6/public_html/header-postulaciones.php on line 134
+[28-Dec-2017 21:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllEdades() on null in /home/intervn6/public_html/header-postulaciones.php:134
+Stack trace:
+#0 /home/intervn6/public_html/postulaciones/postulaciones.php(2): include()
+#1 {main}
+  thrown in /home/intervn6/public_html/header-postulaciones.php on line 134
+[29-Dec-2017 17:36:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[29-Dec-2017 17:47:05 UTC] PHP Warning:  Missing argument 2 for persona::buildPersona(), called in /home/intervn6/public_html/data/Functions/Ofertas/Ofertas_Empresa.php on line 95 and defined in /home/intervn6/public_html/core/Persona/Persona.php on line 43
+[29-Dec-2017 17:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php:170
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Persona.php(52): meta_global::getTema('', NULL)
+#1 /home/intervn6/public_html/data/Functions/Ofertas/Ofertas_Empresa.php(95): persona->buildPersona(Array)
+#2 /home/intervn6/public_html/postulaciones/postulaciones.php(33): ofertas_empresa->getPostulantes(Object(oferta), Object(PDO))
+#3 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Meta/Meta_Global.php on line 170
+[29-Dec-2017 18:14:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[29-Dec-2017 18:18:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/intervn6/public_html/postulaciones/postulaciones.php on line 137
+[29-Dec-2017 18:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[29-Dec-2017 18:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[29-Dec-2017 18:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method curriculum::getEstadoCivil() in /home/intervn6/public_html/postulaciones/postulaciones.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 89
+[30-Dec-2017 00:47:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[30-Dec-2017 01:05:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[30-Dec-2017 03:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:47:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:50:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:52:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:52:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:53:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[30-Dec-2017 03:53:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[30-Dec-2017 03:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:57:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[30-Dec-2017 03:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[15-Jan-2018 21:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[16-Jan-2018 20:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[16-Jan-2018 20:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[16-Jan-2018 20:53:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[16-Jan-2018 21:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[16-Jan-2018 21:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 8
+[17-Jan-2018 15:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[17-Jan-2018 15:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[17-Jan-2018 19:21:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[22-Jan-2018 14:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones.php on line 3
+[22-Jan-2018 16:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 34
+[22-Jan-2018 16:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 65
+[22-Jan-2018 19:09:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 3
+[23-Jan-2018 05:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[23-Jan-2018 05:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:27
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php(67): CV->buildCV(355, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 27
+[23-Jan-2018 05:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:28
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php(67): CV->buildCV(355, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 28
+[23-Jan-2018 05:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on boolean in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php:28
+Stack trace:
+#0 /home/intervn6/public_html/core/Persona/Curriculum/CV.php(27): curriculum_global->getCompetencias(Object(curriculum), Object(PDO))
+#1 /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php(67): CV->buildCV(355, Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 28
+[23-Jan-2018 05:21:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/data/Functions/Curriculum/Curriculum_Global.php on line 127
+[23-Jan-2018 05:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CV::getAspSalarial() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 90
+[23-Jan-2018 05:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CV::getAspSalarial() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 90
+[23-Jan-2018 05:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 31
+[23-Jan-2018 05:33:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 30
+[23-Jan-2018 05:35:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 30
+[23-Jan-2018 05:37:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 31
+[23-Jan-2018 05:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getId() on array in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 31
+[23-Jan-2018 05:38:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getProvincia() in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 44
+[23-Jan-2018 16:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[24-Jan-2018 18:08:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[25-Jan-2018 18:27:33 UTC] PHP Warning:  include(../header-postulaciones.php): failed to open stream: No such file or directory in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 2
+[25-Jan-2018 18:27:33 UTC] PHP Warning:  include(): Failed opening '../header-postulaciones.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 2
+[25-Jan-2018 18:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_empresa' not found in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 3
+[25-Jan-2018 18:29:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 37
+[25-Jan-2018 18:29:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 68
+[01-Feb-2018 01:21:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[01-Feb-2018 01:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[01-Feb-2018 01:21:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[01-Feb-2018 01:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[01-Feb-2018 02:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[01-Feb-2018 16:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_persona' not found in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 4
+[01-Feb-2018 16:25:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ser_id' in 'field list' in /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php:106
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php(106): PDO->prepare('SELECT * FROM s...')
+#1 /home/intervn6/public_html/postulaciones/mis-postulaciones.php(8): servicios_persona->getPostulaciones(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php on line 106
+[01-Feb-2018 16:25:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'serv_id' in 'field list' in /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php:106
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php(106): PDO->prepare('SELECT * FROM s...')
+#1 /home/intervn6/public_html/postulaciones/mis-postulaciones.php(8): servicios_persona->getPostulaciones(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php on line 106
+[01-Feb-2018 18:01:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_persona' not found in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 4
+[01-Feb-2018 18:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:25:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:25:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'intervn6_interviewn.servicio' doesn't exist in /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php:106
+Stack trace:
+#0 /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php(106): PDO->prepare('SELECT * FROM s...')
+#1 /home/intervn6/public_html/postulaciones/mis-postulaciones.php(8): servicios_persona->getPostulaciones(Object(PDO))
+#2 {main}
+  thrown in /home/intervn6/public_html/data/Functions/Servicios/Servicios_Persona.php on line 106
+[01-Feb-2018 18:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_persona' not found in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 4
+[01-Feb-2018 18:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:28:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 58
+[01-Feb-2018 18:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 58
+[01-Feb-2018 18:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 18:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFoto() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 57
+[01-Feb-2018 20:50:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ofertas_persona' not found in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 4
+[01-Feb-2018 21:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function name() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 86
+[01-Feb-2018 21:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function name() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 113
+[01-Feb-2018 21:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function name() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 113
+[01-Feb-2018 21:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function name() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 113
+[01-Feb-2018 21:08:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function name() on null in /home/intervn6/public_html/postulaciones/mis-postulaciones.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/mis-postulaciones.php on line 113
+[02-Feb-2018 13:17:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 38
+[02-Feb-2018 13:17:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 69
+[02-Feb-2018 13:18:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 38
+[02-Feb-2018 13:18:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 69
+[02-Feb-2018 13:29:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 30
+[02-Feb-2018 13:29:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 54
+[02-Feb-2018 22:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[02-Feb-2018 22:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[02-Feb-2018 22:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[02-Feb-2018 22:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:19:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsuario() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_servicios.php on line 7
+[02-Feb-2018 22:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
+[02-Feb-2018 22:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEmpresa() on boolean in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/intervn6/public_html/postulaciones/postulaciones_ofertas.php on line 8
